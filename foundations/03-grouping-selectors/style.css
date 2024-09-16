@@ -1,0 +1,14 @@
+.affirm {
+    color: white;
+    background-color: black;
+}
+
+.contest {
+    background-color: yellow;
+}
+
+.affirm,
+.contest {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
